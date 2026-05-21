@@ -1,5 +1,9 @@
 # 人脸识别系统 - Face Recognition System
 
+适用于此项目的环境文件1.3.0.dist（python3.10）已上传至Releases
+
+放置于python环境下{python310v（python环境目录）}\Lib\site-packages下即可
+
 基于 K-近邻算法 (KNN) 的人脸识别系统，使用 `face_recognition` 库提取人脸特征。
 
 ## 功能特性
