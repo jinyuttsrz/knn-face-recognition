@@ -10,5 +10,7 @@
 - 模型保存与加载功能
 
 ### 运行方式
-- 运行`train_model.py`进行模型训练
+- data/train 用于存放训练用数据集
+- data/test  用于存放测试用数据集
+- 运行`train_model.py`进行模型训练，模型训练完成后，会在data目录下生成knn_clf.pkl的文件
 - 运行`recognize_faces.py`进行模型调用
